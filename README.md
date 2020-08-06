@@ -1,1 +1,1 @@
-# umoja-hack
+# 2nd place solution in UmojaHack Ghana 2020
